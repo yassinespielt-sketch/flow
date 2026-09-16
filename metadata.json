@@ -1,0 +1,6 @@
+{
+  "name": "ClientFlow AI",
+  "description": "Follow a 7-day system to get your first freelance client with clear daily action steps, offer building, personalized outreach, proposals, and closing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
